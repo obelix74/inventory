@@ -1,24 +1,13 @@
 # README
+ 
+## backup data regularly
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+```angular2html
+rake db:data:dump   ->   Dump contents of Rails database to db/data.yml
+```
 
-Things you may want to cover:
+## restore data
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```angular2html
+rake db:data:load   ->   Load contents of db/data.yml into the database
+```
