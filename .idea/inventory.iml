@@ -111,6 +111,7 @@
     <orderEntry type="library" scope="PROVIDED" name="websocket-driver (v0.7.6, ruby-3.2.2-p53) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="websocket-extensions (v0.1.5, ruby-3.2.2-p53) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="xpath (v3.2.0, ruby-3.2.2-p53) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="yaml_db (v0.7.0, ruby-3.2.2-p53) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="zeitwerk (v2.6.12, ruby-3.2.2-p53) [gem]" level="application" />
   </component>
   <component name="RModuleSettingsStorage">
@@ -269,7 +270,16 @@
           <RakeTaskImpl id="db">
             <subtasks>
               <RakeTaskImpl description="Create the database from DATABASE_URL or config/database.yml for the current RAILS_ENV (use db:create:all to create all databases in the config). Without RAILS_ENV or when RAILS_ENV is development, it defaults to creating the development and test databases, except when DATABASE_URL is present" fullCommand="db:create" id="create" />
+              <RakeTaskImpl id="data">
+                <subtasks>
+                  <RakeTaskImpl description="Dump contents of database to db/data.extension (defaults to yaml)" fullCommand="db:data:dump" id="dump" />
+                  <RakeTaskImpl description="Dump contents of database to curr_dir_name/tablename.extension (defaults to yaml)" fullCommand="db:data:dump_dir" id="dump_dir" />
+                  <RakeTaskImpl description="Load contents of db/data.extension (defaults to yaml) into database" fullCommand="db:data:load" id="load" />
+                  <RakeTaskImpl description="Load contents of db/data_dir into database" fullCommand="db:data:load_dir" id="load_dir" />
+                </subtasks>
+              </RakeTaskImpl>
               <RakeTaskImpl description="Drop the database from DATABASE_URL or config/database.yml for the current RAILS_ENV (use db:drop:all to drop all databases in the config). Without RAILS_ENV or when RAILS_ENV is development, it defaults to dropping the development and test databases, except when DATABASE_URL is present" fullCommand="db:drop" id="drop" />
+              <RakeTaskImpl description="Dump schema and data to db/schema.rb and db/data.yml" fullCommand="db:dump" id="dump" />
               <RakeTaskImpl id="encryption">
                 <subtasks>
                   <RakeTaskImpl description="Generate a set of keys for configuring Active Record encryption in a given environment" fullCommand="db:encryption:init" id="init" />
@@ -286,6 +296,7 @@
                   <RakeTaskImpl description="" fullCommand="db:fixtures:identify" id="identify" />
                 </subtasks>
               </RakeTaskImpl>
+              <RakeTaskImpl description="Load schema and data from db/schema.rb and db/data.yml" fullCommand="db:load" id="load" />
               <RakeTaskImpl description="Migrate the database (options: VERSION=x, VERBOSE=false, SCOPE=blog)" fullCommand="db:migrate" id="migrate" />
               <RakeTaskImpl id="migrate">
                 <subtasks>

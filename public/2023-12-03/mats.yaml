@@ -1,0 +1,85 @@
+---
+- !ruby/object:Mat
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 1
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: outer
+    value_before_type_cast: 8x11
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: inner
+    value_before_type_cast: 5x7
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-02 21:02:38.584002'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-02 21:02:38.584002'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Mat
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 2
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: outer
+    value_before_type_cast: 11x14
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: inner
+    value_before_type_cast: 8x12
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-02 21:03:20.775313'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-02 21:03:20.775313'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Mat
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 3
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: outer
+    value_before_type_cast: 16x20
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: inner
+    value_before_type_cast: 12x18
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-02 21:03:36.889125'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-02 21:03:36.889125'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Mat
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 4
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: outer
+    value_before_type_cast: 20x24
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: inner
+    value_before_type_cast: 16x20
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-02 21:03:49.642578'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-02 21:03:49.642578'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2

@@ -1,0 +1,153 @@
+---
+- !ruby/object:Substrate
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 1
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Metal
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: subtype
+    value_before_type_cast: High Gloss
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-02 20:47:29.591305'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-02 20:47:29.591305'
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Substrate
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 2
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Metal
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: subtype
+    value_before_type_cast: Mid Gloss
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-02 20:47:50.476511'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-02 20:47:50.476511'
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Substrate
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 3
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Metal
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: subtype
+    value_before_type_cast: Satin
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-02 20:48:02.411343'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-02 20:48:02.411343'
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Substrate
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 4
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Metal
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: subtype
+    value_before_type_cast: Sheer Matte
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-02 20:48:12.955741'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-02 20:48:12.955741'
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Substrate
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 5
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Canvas
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: subtype
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-02 20:49:43.740864'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-02 20:49:43.740864'
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Substrate
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 6
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Print
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: subtype
+    value_before_type_cast: Pearl
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-02 20:49:59.230578'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-02 20:49:59.230578'
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Substrate
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 7
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Print
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: subtype
+    value_before_type_cast: Glossy
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-02 20:50:09.004041'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-02 20:50:09.004041'
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Substrate
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 8
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Print
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: subtype
+    value_before_type_cast: Lustre
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-02 20:50:20.046677'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-02 20:50:20.046677'
+  new_record: false
+  active_record_yaml_version: 2

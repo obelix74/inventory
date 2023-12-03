@@ -1,0 +1,352 @@
+---
+- !ruby/object:Print
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 1
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 05:53:03.003001'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 05:53:03.003001'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: photo_id
+    value_before_type_cast: 1
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: substrate_id
+    value_before_type_cast: 1
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: size_id
+    value_before_type_cast: 5
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: cost
+    value_before_type_cast: 224
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: frame_id
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: mat_id
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: frameCost
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: matCost
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: totalCost
+    value_before_type_cast: 224
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: count
+    value_before_type_cast: 1
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Print
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 2
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 18:31:33.045591'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 18:31:33.045591'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: photo_id
+    value_before_type_cast: 5
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: substrate_id
+    value_before_type_cast: 4
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: size_id
+    value_before_type_cast: 9
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: cost
+    value_before_type_cast: 110
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: frame_id
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: mat_id
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: frameCost
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: matCost
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: totalCost
+    value_before_type_cast: 110
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: count
+    value_before_type_cast: 1
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Print
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 3
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 18:32:34.422310'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 18:32:34.422310'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: photo_id
+    value_before_type_cast: 14
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: substrate_id
+    value_before_type_cast: 1
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: size_id
+    value_before_type_cast: 5
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: cost
+    value_before_type_cast: 190
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: frame_id
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: mat_id
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: frameCost
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: matCost
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: totalCost
+    value_before_type_cast: 190
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: count
+    value_before_type_cast: 1
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Print
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 4
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 18:33:00.850101'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 18:33:00.850101'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: photo_id
+    value_before_type_cast: 103
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: substrate_id
+    value_before_type_cast: 2
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: size_id
+    value_before_type_cast: 9
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: cost
+    value_before_type_cast: 100
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: frame_id
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: mat_id
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: frameCost
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: matCost
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: totalCost
+    value_before_type_cast: 100
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: count
+    value_before_type_cast: 1
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Print
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 5
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 18:34:47.601683'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 18:34:47.601683'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: photo_id
+    value_before_type_cast: 44
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: substrate_id
+    value_before_type_cast: 1
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: size_id
+    value_before_type_cast: 5
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: cost
+    value_before_type_cast: 200
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: frame_id
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: mat_id
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: frameCost
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: matCost
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: totalCost
+    value_before_type_cast: 200
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: count
+    value_before_type_cast: 1
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Print
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 6
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 18:35:11.390826'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 18:35:11.390826'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: photo_id
+    value_before_type_cast: 109
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: substrate_id
+    value_before_type_cast: 2
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: size_id
+    value_before_type_cast: 5
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: cost
+    value_before_type_cast: 100
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: frame_id
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: mat_id
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: frameCost
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: matCost
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: totalCost
+    value_before_type_cast: 100
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: count
+    value_before_type_cast: 1
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Print
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 7
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 18:35:33.002055'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 18:35:33.002055'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: photo_id
+    value_before_type_cast: 8
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: substrate_id
+    value_before_type_cast: 1
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: size_id
+    value_before_type_cast: 6
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: cost
+    value_before_type_cast: 230
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: frame_id
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: mat_id
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: frameCost
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: matCost
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: totalCost
+    value_before_type_cast: 230
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: count
+    value_before_type_cast: 1
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Print
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 8
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 18:41:16.564477'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 18:41:16.564477'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: photo_id
+    value_before_type_cast: 120
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: substrate_id
+    value_before_type_cast: 2
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: size_id
+    value_before_type_cast: 9
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: cost
+    value_before_type_cast: 100
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: frame_id
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: mat_id
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: frameCost
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: matCost
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: totalCost
+    value_before_type_cast: 100
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: count
+    value_before_type_cast: 1
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Print
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 9
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 18:41:39.134802'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 18:41:39.134802'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: photo_id
+    value_before_type_cast: 36
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: substrate_id
+    value_before_type_cast: 3
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: size_id
+    value_before_type_cast: 5
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: cost
+    value_before_type_cast: 180
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: frame_id
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: mat_id
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: frameCost
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: matCost
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: totalCost
+    value_before_type_cast: 360
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: count
+    value_before_type_cast: 2
+  new_record: false
+  active_record_yaml_version: 2

@@ -1,0 +1,3577 @@
+---
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 1
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Gates of the valley with dunes
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: The blue photo of gates of the valley
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 05:25:13.108021'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 05:25:13.108021'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 2
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Supermoon in trivalley
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:11:11.326343'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:11:11.326343'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 3
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Purple lake inlet
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:11:33.328022'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:11:33.328022'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 4
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Tunnel view covered in snow
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:11:50.535069'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:11:50.535069'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 5
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Thousand island lake outlet sunset
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:12:48.338565'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:12:48.338565'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 6
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Valley view light magic sunset
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:12:58.927753'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:12:58.927753'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 7
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Golden gate bridge and farallon islands
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:13:08.448408'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:13:08.448408'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 8
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Elm tree and half dome during sunrise
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:13:16.741840'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:13:16.741840'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 9
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Sentinel of Yosemite (BW)
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:13:50.554816'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:13:56.654837'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 10
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Fall colors at half dome
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:14:10.608993'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:14:10.608993'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 11
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Half dome in autumn's sunset glow (BW)
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:14:23.712203'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:14:23.712203'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 12
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Golden embrace at Yosemite sunset
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:14:36.381591'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:14:36.381591'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 13
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Half dome bathed in sunset glory at Yosemite national
+      park
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:14:51.265538'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:14:51.265538'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 14
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Cathedral peak and upper cathedral lakes at sunset
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:15:05.402560'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:15:05.402560'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 15
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Wildflower symphony at Yosemite's cathedral peak
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:15:22.318291'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:15:34.947793'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 16
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Upper Yosemite falls reflection vertical
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:15:51.989160'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:15:51.989160'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 17
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Autun Sunset at Sentinel bridge, Yosemite National Park
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: Sentinel bridge fall sunset
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:16:08.363799'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:16:08.363799'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 18
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Yosemite chapel during winter
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:16:26.297376'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:16:26.297376'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 19
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Upper Yosemite falls mirrored in the merced river (landscape)
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:16:45.858397'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:16:45.858397'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 20
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Upper yosemite falls mirrored in the merced river (landscape)
+      2018
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:17:08.081893'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:17:08.081893'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 21
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Towering vernal falls in Yosemite
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:17:23.737925'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:17:23.737925'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 22
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Vernal falls from the footbridge in Yosemite
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:17:34.290639'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:17:34.290639'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 23
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Dogwoods and merced river
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:17:41.764578'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:17:41.764578'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 24
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Yosemite falls and trees
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:17:48.627342'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:17:48.627342'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 25
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Upper yosemite falls and half dome
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:17:58.768937'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:17:58.768937'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 26
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Upper Yosemite falls and frozen meadows
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:18:09.506241'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:18:09.506241'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 27
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Upper Yosemite Falls during very cold weather
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:18:17.914677'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:18:17.914677'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 28
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: reflection of upper yosemite falls in merced river (vertical)
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:18:30.285548'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:18:30.285548'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 29
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Reflection of upper yosemite falls in merced river (with
+      tree to the right)
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:18:46.373642'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:18:46.373642'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 30
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Upper Yosemite falls Closeup
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:18:54.061502'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:18:54.061502'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 31
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Tight closeup of upper yosemite aflls
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:19:01.636313'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:19:01.636313'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 32
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Cathedral peak at sunset, Yoesmite national park
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:19:14.594630'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:19:14.594630'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 33
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Upper pines bridge in winter
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:19:21.098509'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:19:21.098509'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 34
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Last light over clouds rest
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:19:26.766251'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:19:26.766251'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 35
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Three peaks of Yosemite valley (BW)
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:19:33.995322'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:19:33.995322'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 36
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Sunset over Yosemite high country
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:19:47.098387'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:19:47.098387'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 37
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Sunset over half dome, from washburn point
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:19:56.407840'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:19:56.407840'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 38
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Sunset over half dome, from snow creek
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:20:10.238484'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:20:10.238484'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 39
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Close of half dome covered in clouds (BW)
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:20:21.169175'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:20:21.169175'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 40
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Half dome during christmas
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:20:27.675387'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:20:27.675387'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 41
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Half dome in winter with snow in Ahwahnee meadows
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:20:38.711172'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:20:38.711172'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 42
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Half dome and Ahwahnee meadow in winter
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:20:47.714729'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:20:47.714729'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 43
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Half dome framed by fall colors
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:20:58.582342'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:20:58.582342'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 44
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Elm tree at Cook's meadow
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:21:06.273327'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:21:06.273327'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 45
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Half dome at sunset with merced river
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:21:14.163503'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:21:14.163503'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 46
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Valley view sunset during fall
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:21:19.772149'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:21:19.772149'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 47
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: El Capitan and reflection during sunset
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:21:34.216800'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:21:34.216800'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 48
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: El Capitan and its reflection in Merced river during sunset
+      with snow (vertical)
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:21:53.161947'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:21:53.161947'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 49
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: El Capitan and snowy meadows
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:22:05.142756'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:22:05.142756'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 50
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: El Capitan three brothers panorama
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:22:12.609361'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:22:12.609361'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 51
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Valley view sunset (dramatic)
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:22:22.135518'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:22:22.135518'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 52
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: El Capitan and reflection in merced river during sunset
+      (landscape)
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:22:33.296224'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:22:33.296224'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 53
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: valley view in winter
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:22:38.726728'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:22:38.726728'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 54
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Valley view winter wider perspective
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:22:50.397829'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:22:50.397829'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 55
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Tunnel view in winter (BW)
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:22:57.468415'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:22:57.468415'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 56
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Tunnel view covered in snow
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:23:11.591539'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:23:11.591539'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 57
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: South side drive in winter (vertical)
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:23:19.380694'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:23:19.380694'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 58
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Southside drive frozen in Yosemite
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:23:26.727913'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:23:26.727913'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 59
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Fern springs and snow
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:23:33.415019'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:23:33.415019'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 60
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Elm tree in Ahwahnee Meadow, Yosemite national park
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:23:52.657624'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:23:52.657624'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 61
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Bridalveil falls in winter
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:24:00.229717'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:24:00.229717'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 62
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Ferns along the way to Taft point
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:24:08.948729'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:24:08.948729'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 63
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Snow-capped Sierra Nevada, Eastern Sierra
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:32:30.288408'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:32:30.288408'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 64
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Full moon magic near Tioga Pass
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:32:37.697813'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:32:37.697813'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 65
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Autumn's Embrace in the Eastern Sierra
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:32:48.658791'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:32:48.658791'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 66
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Mt. Whitney during sunrise
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:32:55.113796'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:32:55.113796'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 67
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Sunrise falls over Mt. Whitney
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:33:00.951400'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:33:00.951400'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 68
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Lone Pine Peak and Alabama Hills (BW)
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:33:07.706819'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:33:30.451861'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 69
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Mount Whitney and Alabama Hills (BW)
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:33:17.330891'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:33:17.330891'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 70
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Mount Whitney and Moon
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:33:42.713992'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:33:42.713992'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 71
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Mount Whitney in winter (BW)
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:33:48.560578'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:34:00.750016'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 72
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Mount whitney in winter
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:34:10.756509'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:34:10.756509'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 73
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Banner peak and thousand island lakes (BW)
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:34:20.712282'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:34:20.712282'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 74
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Banner peak and thousand island lakes
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:34:28.805695'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:34:28.805695'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 75
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Recess peak sunrise
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:34:33.545330'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:34:33.545330'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 76
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Pine tree and sunrise
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:34:38.644086'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:34:38.644086'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 77
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Sunrise over Recess peak
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:34:43.552952'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:34:43.552952'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 78
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Sunrise over lake edison and recess peak
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:34:57.408442'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:34:57.408442'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 79
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Andromeda galaxy and milky way over lake edison
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:35:06.908923'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:35:06.908923'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 80
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Fall colors along rush creek
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:35:13.043358'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:35:13.043358'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 81
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Mono lake closeup south tufa sunset
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:35:22.778493'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:35:22.778493'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 82
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: mono lake south tufa sunset
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:35:32.503389'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:35:32.503389'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 83
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Aspen trees during fall in June lake loop
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:35:39.571214'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:35:39.571214'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 84
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Mt. Lewis and Hwy 120
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:35:45.383799'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:35:45.383799'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 85
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Minarets and Iceberg Lake
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:36:55.965898'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:36:55.965898'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 86
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Sequoia trees in general grant grove
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:37:04.671771'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:37:04.671771'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 87
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Mt Whitney lit by moon light
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:37:14.805389'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:37:14.805389'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 88
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Evolution lake and the hermit, John Muir Trail
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:37:23.806934'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:37:23.806934'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 89
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Thousand island lake outlet sunset
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:37:31.311692'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:37:31.311692'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 90
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Cathedral range during sunset
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:37:38.153113'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:37:38.153113'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 91
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Nevada falls, half dome and liberty bell during sunrise
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:37:47.471285'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:37:47.471285'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 92
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Lake Hamilton sunset
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:37:54.736474'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:37:54.736474'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 93
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Lake Hamilton moonrise
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:38:02.505377'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:38:02.505377'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 94
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Thousand island lake sunrise
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:38:13.881598'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:38:13.881598'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 95
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Thousand island lake sunset
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:38:19.520602'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:38:19.520602'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 96
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Upper lyell canyon lake
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:38:27.200494'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:38:27.200494'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 97
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Squaw lake sunset
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:38:32.726926'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:38:32.726926'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 98
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Purple lake inlet
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:38:37.640165'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:38:37.640165'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 99
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Virginia lake
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:38:42.344912'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:38:42.344912'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 100
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Sunset over Malibu
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:42:07.471637'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:42:07.471637'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 101
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Cowell ranch beach
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:42:12.634792'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:42:12.634792'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 102
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Cowell-purisma trail bluffs
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:42:19.339378'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:42:19.339378'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 103
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Santa Cruz Sunrise along walton lighthouse
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:42:27.635330'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:42:27.635330'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 104
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Bay bridge and the moon
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:42:35.215475'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:42:35.215475'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 105
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Pfiffer beach sunset, Keyhole
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:42:41.775905'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:42:41.775905'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 106
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Sunset at Kohanaiki beach park, Big Island, Hawaii
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:42:55.392632'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:42:55.392632'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 107
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Sunset near Kaloko-Honokohau National Park, Big Island,
+      Hawaii
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:43:08.364483'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:43:08.364483'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 108
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Black sand turtle beach, Hawaii
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:43:15.662956'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:43:15.662956'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 109
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Saint Peter's catholic church and Kahaluu Bay, Big Island,
+      Hawaii
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:43:34.376338'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:43:34.376338'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 110
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Sunset in Kahalu'u Beach Park, Big Island, Hawaii
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:43:46.793587'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:43:46.793587'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 111
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Couple watching susnet in Big Island, Hawaii
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:43:54.266091'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:43:54.266091'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 112
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Lunar eclipse and the Golden Gate Bridge
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:46:46.721882'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:46:46.721882'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 113
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: San francisco downtown, bay bridge red sunset
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:47:13.648555'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:47:13.648555'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 114
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Golden gate bridge, golden park, richmond district (BW)
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:47:30.128268'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:47:30.128268'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 115
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Market Street and downtown San Francisco (BW)
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:47:42.526501'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:50:13.553557'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 116
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Alcatraz, Golden gate bridge and the city (BW)
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:47:51.120952'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:47:51.120952'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 117
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Golden Gate Bridge from Fort point (BW)
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:48:00.075789'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:48:00.075789'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 118
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: 'San Francisco city and the bay bridge with fog '
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:48:16.717957'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:49:36.084040'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 119
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: San Francisco bay with fog (red skies)
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:48:24.814825'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:49:46.629462'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 120
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: San Francisco city, bay bridge and Berkeley in fog
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:48:34.945526'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:49:56.564889'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 121
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Downtown San Francisco from pier 7
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:48:49.582258'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:48:49.582258'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 122
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Pier 7 Sunset
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:48:55.125805'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:48:55.125805'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 123
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: San Francisco city during the blue hour
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:49:05.771807'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:49:05.771807'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 124
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: San Francisco downtown, Bay Bridge and Berekeley (red
+      and blue skies)
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:49:20.207216'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:49:20.207216'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 125
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Mission Santa Barbara sunset
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 17:49:26.111740'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 17:49:26.111740'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 126
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Lost in the mist of San Francisco
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 18:11:02.728734'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 18:11:02.728734'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 127
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Martins beach sunset
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 18:11:24.331058'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 18:11:24.331058'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 128
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: San Francisco downtown and Karl
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 18:11:31.766138'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 18:11:31.766138'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 129
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: San Francisco city during the blue hour
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 18:11:44.250710'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 18:11:44.250710'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 130
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Dell valle reservoir
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 18:12:05.705662'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 18:12:05.705662'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 131
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Rolling hills of Livermore
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 18:12:17.068185'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 18:12:17.068185'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 132
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Wildflowers and rolling hills of Livermore
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 18:12:26.552523'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 18:12:26.552523'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 133
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Happy cows in Sunol
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 18:12:32.662119'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 18:12:32.662119'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 134
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Barn Sunrise, Livermore
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 18:12:39.738621'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 18:12:39.738621'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 135
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Rolling hills of Fremont
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 18:12:45.948231'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 18:12:45.948231'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 136
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Lake Serburne Glacier National Park
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 18:18:42.912983'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 18:18:42.912983'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 137
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Nymph lake
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 18:18:47.526989'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 18:18:47.526989'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 138
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Dream Lake
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 18:18:51.227172'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 18:18:51.227172'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 139
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Mountains along bear lake road
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 18:18:57.580117'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 18:18:57.580117'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 140
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Bear Lake
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 18:19:01.036551'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 18:19:01.036551'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 141
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Trees along dream lake
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 18:19:08.008619'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 18:19:08.008619'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 142
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Emerald Lake
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 18:19:13.227488'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 18:19:13.227488'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 143
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Eiffel tower at sunset
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 18:19:33.202523'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 18:19:33.202523'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 144
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Red bicycle parked on a bridge over a canal in Amsterdam
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 18:19:49.785483'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 18:19:49.785483'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 145
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Handcrafted Italian ornamental plates from Amalfi
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 18:20:08.432319'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 18:20:08.432319'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 146
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: De L'Europe Amsterdam at night
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 18:20:24.908232'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 18:20:24.908232'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 147
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Streets of Rome
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 18:20:32.343941'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 18:20:32.343941'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 148
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Sanite-chapelle, Paris
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 18:20:39.748363'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 18:20:39.748363'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 149
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Looking up at the Eiffel tower through the trees
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 18:20:52.435786'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 18:20:52.435786'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 150
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Looking up at the Eiffel tower
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 18:20:59.822180'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 18:20:59.822180'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 151
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: A door in Amalfi, Italy is covered in a thick blanket
+      of ivy leaves
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 18:21:22.672937'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 21:26:46.422297'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+    value_before_type_cast: Europe
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+    value_before_type_cast: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 152
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Sparkling city of lights, Paris
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 18:21:32.091128'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 18:21:32.091128'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 153
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Serene splendor at Bylakuppe Golden Temple
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 18:21:55.847862'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 18:21:55.847862'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 154
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Hampi pushkarni step well
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 18:22:05.771771'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 18:22:05.771771'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
+- !ruby/object:Photo
+  concise_attributes:
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: id
+    value_before_type_cast: 155
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: name
+    value_before_type_cast: Hazara Rama Temple, Hampi
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: description
+    value_before_type_cast: ''
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: created_at
+    value_before_type_cast: '2023-12-03 18:22:14.066400'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: updated_at
+    value_before_type_cast: '2023-12-03 18:22:14.066400'
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: gallery
+  - !ruby/object:ActiveModel::Attribute::FromDatabase
+    name: color
+  new_record: false
+  active_record_yaml_version: 2
