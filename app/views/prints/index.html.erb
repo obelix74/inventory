@@ -1,0 +1,68 @@
+<div class="w-full">
+  <% if notice.present? %>
+    <p class="py-2 px-3 bg-green-50 mb-5 text-green-500 font-medium rounded-lg inline-block" id="notice"><%= notice %></p>
+  <% end %>
+
+  <div class="p-40">
+    <h1 class="mb-4 text-4xl font-black">Prints</h1>
+    <table class="min-w-full table-auto">
+      <thead class="bg-gray-800 text-gray-300">
+      <tr>
+        <th>Photo</th>
+        <th>Substrate</th>
+        <th>Size</th>
+        <th>Cost of print ($)</th>
+        <th>Frame</th>
+        <th>Frame color</th>
+        <th>Mat</th>
+        <th>Frame cost</th>
+        <th>Mat cost</th>
+        <th>Total cost ($)</th>
+        <th>Count</th>
+        <th colspan="3">Actions</th>
+      </tr>
+      </thead>
+
+      <tbody>
+      <% @prints.each do |print| %>
+        <tr class="border-4 border-gray-200">
+          <td><%= print.photo.name %></td>
+          <td class = "text-center"><%= print.substrate.name %></td>
+          <td class = "text-center"><%= print.size.name %></td>
+          <td class = "text-center"><%= print.cost %></td>
+          <td>
+            <% if print.frame %>
+              <%= print.frame.name %>
+            <% end %>
+          </td>
+          <td>
+            <% if print.frame %>
+              <%= print.frame.color %>
+            <% end %>
+          </td>
+          <td>
+            <% if print.mat %>
+              <%= print.mat.name %>
+            <% end %>
+          </td>
+          <td class = "text-center">
+            <%= print.frameCost %>
+          </td>
+          <td class = "text-center"><%= print.matCost %></td>
+          <td class = "text-center"><%= print.totalCost %></td>
+          <td class = "text-center"><%= print.count %></td>
+          <td><%= link_to 'Show', print %></td>
+          <td><%= link_to 'Edit', edit_print_path(print) %></td>
+          <td><%= link_to 'Destroy', print, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+        </tr>
+      <% end %>
+      </tbody>
+    </table>
+    <br>
+    <%= link_to 'New Print', new_print_path, class: "bg-indigo-500 text-white px-4 py-2 border rounded-md hover:bg-white hover:border-indigo-500 hover:text-black" %>
+  </div>
+  <div class="p-10">
+    <%= link_to "Home", "/", class: "ml-2 rounded-lg py-3 px-5 bg-gray-100 inline-block font-medium" %>
+  </div>
+
+</div>

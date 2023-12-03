@@ -1,0 +1,10 @@
+<p style="color: green"><%= notice %></p>
+
+<%= render @mat %>
+
+<div>
+  <%= link_to "Edit this mat", edit_mat_path(@mat) %> |
+  <%= link_to "Back to mats", mats_path %>
+
+  <%= button_to "Destroy this mat", @mat, method: :delete %>
+</div>

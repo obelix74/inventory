@@ -1,0 +1,22 @@
+<div id="<%= dom_id accessory %>">
+  <p class="my-5">
+    <strong class="block font-medium mb-1">Name:</strong>
+    <%= accessory.name %>
+  </p>
+
+  <p class="my-5">
+    <strong class="block font-medium mb-1">Count:</strong>
+    <%= accessory.count %>
+  </p>
+
+  <p class="my-5">
+    <strong class="block font-medium mb-1">Cost:</strong>
+    <%= accessory.cost %>
+  </p>
+
+  <% if action_name != "show" %>
+    <%= link_to "Show this accessory", accessory, class: "rounded-lg py-3 px-5 bg-gray-100 inline-block font-medium" %>
+    <%= link_to "Edit this accessory", edit_accessory_path(accessory), class: "rounded-lg py-3 ml-2 px-5 bg-gray-100 inline-block font-medium" %>
+    <hr class="mt-6">
+  <% end %>
+</div>

@@ -1,0 +1,10 @@
+<p style="color: green"><%= notice %></p>
+
+<%= render @substrate %>
+
+<div>
+  <%= link_to "Edit this substrate", edit_substrate_path(@substrate) %> |
+  <%= link_to "Back to substrates", substrates_path %>
+
+  <%= button_to "Destroy this substrate", @substrate, method: :delete %>
+</div>

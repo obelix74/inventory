@@ -1,0 +1,33 @@
+<div class="w-full">
+  <% if notice.present? %>
+    <p class="py-2 px-3 bg-green-50 mb-5 text-green-500 font-medium rounded-lg inline-block" id="notice"><%= notice %></p>
+  <% end %>
+
+  <div class="p-10">
+    <h1 class="mb-4 text-4xl font-black">Sizes</h1>
+    <table class="min-w-full table-auto">
+      <thead class="bg-gray-800 text-gray-300">
+      <tr>
+        <th>Size</th>
+        <th colspan="3">Actions</th>
+      </tr>
+      </thead>
+
+      <tbody>
+      <% @sizes.each do |size| %>
+        <tr class="border-4 border-gray-200">
+          <td class="text-center"><%= size.name %></td>
+          <td class="text-center"><%= link_to 'Show', size %></td>
+          <td class="text-center"><%= link_to 'Edit', edit_size_path(size) %></td>
+          <td class="text-center"><%= link_to 'Destroy', size, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+        </tr>
+      <% end %>
+      </tbody>
+    </table>
+    <br>
+    <%= link_to 'New Size', new_size_path, class: "bg-indigo-500 text-white px-4 py-2 border rounded-md hover:bg-white hover:border-indigo-500 hover:text-black" %>
+  </div>
+  <div class="p-10">
+    <%= link_to "Home", "/", class: "ml-2 rounded-lg py-3 px-5 bg-gray-100 inline-block font-medium" %>
+  </div>
+</div>
