@@ -3,9 +3,9 @@ class PrintsController < ApplicationController
 
   # GET /prints or /prints.json
   def index
-    @prints = Print.all.sort_by{|print|
-      print.photo.name
-    }
+    @prints = Print.search(params[:search],params[:substrate_id],params[:size_id])
+    @substrates = Substrate.all.order('name asc')
+    @sizes = Size.all.order('name asc')
   end
 
   # GET /prints/1 or /prints/1.json

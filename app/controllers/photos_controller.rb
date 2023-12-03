@@ -3,7 +3,7 @@ class PhotosController < ApplicationController
 
   # GET /photos or /photos.json
   def index
-    @photos = Photo.all.order('name asc')
+    @photos = Photo.search(params[:search])
   end
 
   # GET /photos/1 or /photos/1.json
@@ -65,6 +65,6 @@ class PhotosController < ApplicationController
 
     # Only allow a list of trusted parameters through.
     def photo_params
-      params.require(:photo).permit(:name, :description)
+      params.require(:photo).permit(:name, :description, :gallery, :color)
     end
 end
