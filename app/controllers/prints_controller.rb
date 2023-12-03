@@ -4,7 +4,7 @@ class PrintsController < ApplicationController
   # GET /prints or /prints.json
   def index
     @prints = Print.all.sort_by{|print|
-      print.photo.name 
+      print.photo.name
     }
   end
 
@@ -19,7 +19,7 @@ class PrintsController < ApplicationController
     @substrates = Substrate.all.order('name asc')
     @sizes = Size.all.order('name asc')
     @frames = Frame.all.order('name asc')
-    @mats = Mat.all.order('name asc')
+    @mats = Mat.all
   end
 
   # GET /prints/1/edit

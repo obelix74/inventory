@@ -1,9 +1,16 @@
-<h1>New photo</h1>
 
-<%= render "form", photo: @photo %>
+<div class="w-full">
+  <h1 class="mb-4 text-4xl font-black">Add a new photo</h1>
 
-<br>
+  <%= simple_form_for @photo do |f| %>
+    <%= f.input :name %>
+    <%= f.input :description %>
+    <%= f.input :gallery, :collection => %w[Yosemite SierraNevada Seascapes Cityscapes BayArea OtherNationalParks Europe India] %>
+    <%= f.input :color, :collection => %w[Color BW] %>
+    <%= f.button :submit %>
+  <% end %>
 
-<div>
-  <%= link_to "Back to photos", photos_path %>
+  <br>
+  <%= link_to 'Back to photos', photos_path, class: "bg-indigo-500 text-white px-4 py-2 border rounded-md hover:bg-white hover:border-indigo-500 hover:text-black" %>
+
 </div>

@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.1].define(version: 2023_12_02_205800) do
+ActiveRecord::Schema[7.1].define(version: 2023_12_03_190029) do
   create_table "accessories", force: :cascade do |t|
     t.string "name"
     t.integer "count"
@@ -39,6 +39,8 @@ ActiveRecord::Schema[7.1].define(version: 2023_12_02_205800) do
     t.string "description"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.string "gallery"
+    t.string "color"
   end
 
   create_table "prints", force: :cascade do |t|

@@ -10,6 +10,8 @@
       <tr>
         <th>Photo</th>
         <th>Description</th>
+        <th>Gallery</th>
+        <th>Color</th>
         <th colspan="3">Actions</th>
       </tr>
       </thead>
@@ -19,7 +21,9 @@
         <tr class="border-4 border-gray-200">
           <td><%= photo.name %></td>
           <td class="text-center"><%= photo.description %></td>
-          <td class="text-center"><%= link_to 'Show', photo %></td>
+          <td class="text-center"><%= photo.gallery %></td>
+          <td class="text-center"><%= photo.color %></td>
+          <td class="text-center"><%= link_to 'Add Print', new_print_path(:photo_id => photo.id) %></td>
           <td class="text-center"><%= link_to 'Edit', edit_photo_path(photo) %></td>
           <td class="text-center"><%= link_to 'Destroy', photo, method: :delete, data: { confirm: 'Are you sure?' } %></td>
         </tr>

@@ -2,7 +2,7 @@
   <h1 class="mb-4 text-4xl font-black">Add a new print</h1>
 
   <%= simple_form_for @print do |f| %>
-    <%= f.input :photo_id, :collection => @photos, :label_method => :name, :value_method => :id, :label => "Photo", :include_blank => false %>
+    <%= f.input :photo_id, :collection => @photos, :label_method => :name, :value_method => :id, :label => "Photo", :include_blank => false, :selected => params[:photo_id] %>
     <%= f.input :substrate_id, :collection => @substrates, :label_method => :label, :value_method => :id, :label => "Substrate", :include_blank => false %>
     <%= f.input :size_id, :collection => @sizes, :label_method => :name, :value_method => :id, :label => "Size", :include_blank => false %>
     <%= f.input :count, as: :integer, :label => "Number of prints", input_html: { min: '1', step: 'any' }%>
@@ -13,4 +13,8 @@
     <%= f.input :matCost, as: :numeric, :label  => "Cost of mat ($)"%>
     <%= f.button :submit %>
   <% end %>
+
+  <div class="p-10">
+    <%= link_to "Prints", prints_path, class: "ml-2 rounded-lg py-3 px-5 bg-gray-100 inline-block font-medium" %>
+  </div>
 </div>
