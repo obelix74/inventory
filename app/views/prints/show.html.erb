@@ -1,10 +1,15 @@
 <p style="color: green"><%= notice %></p>
 
-<%= render @print %>
+<div class="min-w-full">
+  <%= render @print %>
 
-<div>
-  <%= link_to "Edit this print", edit_print_path(@print) %> |
-  <%= link_to "Back to prints", prints_path %>
+  <div>
+    <%= link_to "Edit this print", edit_print_path(@print) %> |
+    <%= link_to "Back to prints", prints_path %>
 
-  <%= button_to "Destroy this print", @print, method: :delete %>
+    <%= button_to "Destroy this print", @print, method: :delete %>
+  </div>
+
+  <%= link_to "Photos", photos_path, class: "ml-2 rounded-lg py-3 px-5 bg-gray-100 inline-block font-medium" %>
+  <%= link_to "Prints", prints_path, class: "ml-2 rounded-lg py-3 px-5 bg-gray-100 inline-block font-medium" %>
 </div>

@@ -24,14 +24,15 @@ class PrintsController < ApplicationController
 
   # GET /prints/1/edit
   def edit
+    @sizes = Size.all.order('name asc')
   end
 
   # POST /prints or /prints.json
   def create
     @print = Print.new(print_params)
     @print.totalCost = @print.cost * @print.count
-    @print.totalCost += @print.frameCost if @print.frameCost
-    @print.totalCost += @print.matCost if @print.matCost
+    @print.totalCost += @print.frameCost * @print.count if @print.frameCost
+    @print.totalCost += @print.matCost * @print.count if @print.matCost
 
     respond_to do |format|
       if @print.save
@@ -47,6 +48,13 @@ class PrintsController < ApplicationController
   # PATCH/PUT /prints/1 or /prints/1.json
   def update
     respond_to do |format|
+      p "Params: " + params[:print].inspect
+      count = params[:print][:count].to_i
+      p "Count: " + count.inspect
+      @print.totalCost = @print.cost * count
+      @print.totalCost += @print.frameCost * count if @print.frameCost
+      @print.totalCost += @print.matCost * count if @print.matCost
+
       if @print.update(print_params)
         format.html { redirect_to print_url(@print), notice: "Print was successfully updated." }
         format.json { render :show, status: :ok, location: @print }

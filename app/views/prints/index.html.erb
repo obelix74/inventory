@@ -34,7 +34,11 @@
       <% @prints.each do |print| %>
         <tr class="border-4 border-gray-200">
           <td><%= print.photo.name %></td>
-          <td class="text-center"><%= print.substrate.name %> (<%= print.substrate.subtype %>)</td>
+          <td class="text-center"><%= print.substrate.name %>
+            <% unless print.substrate.subtype.empty? %>
+            (<%=  print.substrate.subtype  %>)
+            <%  end %>
+          </td>
           <td class="text-center"><%= print.size.name %></td>
           <td class="text-center"><%= print.cost %></td>
           <td>
@@ -44,7 +48,7 @@
           </td>
           <td>
             <% if print.mat %>
-              <%= print.mat.name %>
+              <%= print.mat.outer %>
             <% end %>
           </td>
           <td class="text-center"><%= print.totalCost %></td>

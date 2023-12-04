@@ -12,6 +12,16 @@
   <% end %>
 
   <div>
+    <%= form.label :count, style: "display: block" %>
+    <%= form.text_field :count %>
+  </div>
+
+  <div>
+    <%= form.label :size, style: "display: block" %>
+    <%= form.collection_select :size_id, @sizes, :id, :name, {:selected => print.size_id}  %>
+  </div>
+
+  <div>
     <%= form.submit %>
   </div>
 <% end %>

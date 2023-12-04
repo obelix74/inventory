@@ -1,10 +1,11 @@
-<p style="color: green"><%= notice %></p>
+<div class="w-full">
+  <p style="color: green"><%= notice %></p>
 
-<%= render @photo %>
+  <%= render @photo %>
 
-<div>
-  <%= link_to "Edit this photo", edit_photo_path(@photo) %> |
-  <%= link_to "Back to photos", photos_path %>
-
-  <%= button_to "Destroy this photo", @photo, method: :delete %>
+  <div>
+    <%= link_to "Edit this photo", edit_photo_path(@photo) %> |
+    <%= link_to "Back to photos", photos_path %>
+    <%= button_to "Destroy this photo", @photo, method: :delete %>
+  </div>
 </div>
