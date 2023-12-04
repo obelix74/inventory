@@ -3,7 +3,7 @@ class PrintsController < ApplicationController
 
   # GET /prints or /prints.json
   def index
-    @prints = Print.search(params[:search],params[:substrate_id],params[:size_id])
+    @prints = Print.search(params[:search],params[:medium],params[:size_id])
     @substrates = Substrate.all.order('name asc')
     @sizes = Size.all.order('name asc')
     #calculate total cost and number

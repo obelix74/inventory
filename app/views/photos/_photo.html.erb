@@ -1,12 +1,38 @@
-<div id="<%= dom_id photo %>">
-  <p>
-    <strong>Name:</strong>
-    <%= photo.name %>
-  </p>
-
-  <p>
-    <strong>Description:</strong>
-    <%= photo.description %>
-  </p>
-
+<div id="<%= dom_id photo %>" class="p-8 mt-6 lg:mt-0 rounded shadow bg-white">
+  <table id="example" class="stripe hover" style="width:100%; padding-top: 1em;  padding-bottom: 1em;">
+    <tbody>
+    <tr>
+      <td class="font-bold">
+        Photo
+      </td>
+      <td>
+        <%= photo.name %>
+      </td>
+    </tr>
+    <tr>
+      <td class="font-bold">
+        Description
+      </td>
+      <td>
+        <%= photo.description %>
+      </td>
+    </tr>
+    <tr>
+      <td class="font-bold">
+        Gallery
+      </td>
+      <td>
+        <%= photo.gallery %>
+      </td>
+    </tr>
+    <tr>
+      <td class="font-bold">
+        Color
+      </td>
+      <td>
+        <%= photo.color %>
+      </td>
+    </tr>
+    </tbody>
+  </table>
 </div>

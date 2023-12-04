@@ -5,6 +5,8 @@
   <% end %>
 
   <div class="p-10">
+    <%= link_to "Home", "/", class: "ml-2 rounded-lg py-3 px-5 bg-gray-100 inline-block font-medium" %>
+    <%= link_to 'New Mat', new_mat_path, class: "bg-indigo-500 text-white px-4 py-2 border rounded-md hover:bg-white hover:border-indigo-500 hover:text-black" %>
     <h1 class="mb-4 text-4xl font-black">Mats</h1>
     <table class="min-w-full table-auto">
       <thead class="bg-gray-800 text-gray-300">
@@ -26,9 +28,5 @@
       <% end %>
       </tbody>
     </table>
-  </div>
-  <div class="p-10">
-    <%= link_to 'New Mat', new_mat_path, class: "bg-indigo-500 text-white px-4 py-2 border rounded-md hover:bg-white hover:border-indigo-500 hover:text-black" %>
-    <%= link_to "Home", "/", class: "ml-2 rounded-lg py-3 px-5 bg-gray-100 inline-block font-medium" %>
   </div>
 </div>

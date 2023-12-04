@@ -8,7 +8,7 @@
     <%= form_tag prints_path, :method => 'get' do |f| %>
       <%= label_tag(:search, "Search string: ") %>
       <%= text_field_tag :search, params[:search] %>
-      <%= select_tag :substrate_id, options_from_collection_for_select(@substrates, :id, :label, params[:substrate_id]), :include_blank => true %>
+      <%= select_tag :medium, options_for_select(%w[Canvas Metal Paper Postcards], params[:medium]), :include_blank => true %>
       <%= select_tag :size_id, options_from_collection_for_select(@sizes, :id, :name, params[:size_id]), :include_blank => true %>
       <%= submit_tag "Search" %>
     <% end %>
@@ -25,10 +25,10 @@
         <th>Photo</th>
         <th>Media</th>
         <th>Size</th>
-        <th>Cost of print ($)</th>
+        <th>Cost($)</th>
         <th>Frame</th>
         <th>Mat</th>
-        <th>Total cost ($)</th>
+        <th>Total($)</th>
         <th>Count</th>
         <th colspan="3">Actions</th>
       </tr>
