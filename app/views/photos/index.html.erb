@@ -5,6 +5,7 @@
 
   <div class="p-10">
     <%= link_to "Home", "/", class: "ml-2 rounded-lg py-3 px-5 bg-gray-100 inline-block font-medium" %>
+    <%= link_to 'New Photo', new_photo_path, class: "bg-indigo-500 text-white px-4 py-2 border rounded-md hover:bg-white hover:border-indigo-500 hover:text-black" %>
     <%= form_tag photos_path, :method => 'get' do |f| %>
       <%= label_tag(:search, "Search string: ") %>
       <%= text_field_tag :search, params[:search] %>
@@ -13,6 +14,7 @@
 
   <div class="p-10">
     <h1 class="mb-4 text-4xl font-black">Photos</h1>
+    <%= @photos.count %> photos
     <table class="min-w-full table-auto">
       <thead class="bg-gray-800 text-gray-300">
       <tr>
@@ -38,7 +40,5 @@
       <% end %>
       </tbody>
     </table>
-    <br>
-    <%= link_to 'New Photo', new_photo_path, class: "bg-indigo-500 text-white px-4 py-2 border rounded-md hover:bg-white hover:border-indigo-500 hover:text-black" %>
   </div>
 </div>

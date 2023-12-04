@@ -1,10 +1,12 @@
-<h1>Editing mat</h1>
+<div class="w-full">
+  <h1 class="mb-4 text-4xl font-black">Editing mat</h1>
 
-<%= render "form", mat: @mat %>
+  <%= render "form", mat: @mat %>
 
-<br>
+  <br>
 
-<div>
-  <%= link_to "Show this mat", @mat %> |
-  <%= link_to "Back to mats", mats_path %>
+  <div>
+    <%= link_to "Show this mat", @mat %> |
+    <%= link_to "Mats", mats_path, class: "ml-2 rounded-lg py-3 px-5 bg-gray-100 inline-block font-medium" %>
+  </div>
 </div>

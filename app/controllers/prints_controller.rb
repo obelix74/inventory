@@ -6,6 +6,11 @@ class PrintsController < ApplicationController
     @prints = Print.search(params[:search],params[:substrate_id],params[:size_id])
     @substrates = Substrate.all.order('name asc')
     @sizes = Size.all.order('name asc')
+    #calculate total cost and number
+    @grand_total = 0
+    @prints.each do |print|
+      @grand_total += print.totalCost
+    end
   end
 
   # GET /prints/1 or /prints/1.json
