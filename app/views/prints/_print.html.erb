@@ -1,2 +1,90 @@
-<div id="<%= dom_id print %>">
+<div id="<%= dom_id print %>" class="p-8 mt-6 lg:mt-0 rounded shadow bg-white">
+  <table id="example" class="stripe hover" style="width:100%; padding-top: 1em;  padding-bottom: 1em;">
+    <tbody>
+    <tr>
+      <td class="font-bold">
+        Photo
+      </td>
+      <td>
+        <%= print.photo.name %>
+      </td>
+    </tr>
+    <tr>
+      <td class="font-bold">
+        Size
+      </td>
+      <td>
+        <%= print.size.name %>
+      </td>
+    </tr>
+    <tr>
+      <td class="font-bold">
+        Medium
+      </td>
+      <td>
+        <%= print.substrate.label %>
+      </td>
+    </tr>
+    <tr>
+      <td class="font-bold">
+        Frame
+      </td>
+      <td>
+        <% if print.frame %>
+          <%= print.frame.name %>
+        <% end %>
+      </td>
+    </tr>
+    <tr>
+      <td class="font-bold">
+        Mat
+      </td>
+      <td>
+        <% if print.mat %>
+          <%= print.mat.label %>
+        <% end %>
+      </td>
+    </tr>
+    <tr>
+      <td class="font-bold">
+        Cost
+      </td>
+      <td>
+        $<%= print.cost %>
+      </td>
+    </tr>
+    <tr>
+      <td class="font-bold">
+        Frame Cost
+      </td>
+      <td>
+        $<%= print.frameCost %>
+      </td>
+    </tr>
+    <tr>
+      <td class="font-bold">
+        Mat Cost
+      </td>
+      <td>
+        $<%= print.matCost %>
+      </td>
+    </tr>
+    <tr>
+      <td class="font-bold">
+        Count
+      </td>
+      <td>
+        <%= print.count %>
+      </td>
+    </tr>
+    <tr>
+      <td class="font-bold">
+        Total cost
+      </td>
+      <td>
+        $<%= print.totalCost %>
+      </td>
+    </tr>
+    </tbody>
+  </table>
 </div>

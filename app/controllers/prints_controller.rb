@@ -8,8 +8,10 @@ class PrintsController < ApplicationController
     @sizes = Size.all.order('name asc')
     #calculate total cost and number
     @grand_total = 0
+    @total_prints = 0
     @prints.each do |print|
       @grand_total += print.totalCost
+      @total_prints += print.count
     end
   end
 
@@ -53,12 +55,14 @@ class PrintsController < ApplicationController
   # PATCH/PUT /prints/1 or /prints/1.json
   def update
     respond_to do |format|
-      p "Params: " + params[:print].inspect
       count = params[:print][:count].to_i
-      p "Count: " + count.inspect
-      @print.totalCost = @print.cost * count
+      cost = params[:print][:cost].to_f
+      matCost = params[:print][:matCost].to_f
+      p "Count: #{count} Cost: #{cost} matCost: #{matCost}"
+      @print.totalCost = cost * count
       @print.totalCost += @print.frameCost * count if @print.frameCost
-      @print.totalCost += @print.matCost * count if @print.matCost
+      @print.totalCost += matCost * count if matCost
+      p "TotalCost: #{@print.totalCost}"
 
       if @print.update(print_params)
         format.html { redirect_to print_url(@print), notice: "Print was successfully updated." }
