@@ -32,6 +32,7 @@ class PrintsController < ApplicationController
   # GET /prints/1/edit
   def edit
     @sizes = Size.all.order('name asc')
+    @substrates = Substrate.all.order('name asc')
   end
 
   # POST /prints or /prints.json

@@ -17,6 +17,11 @@
   </div>
 
   <div>
+    <%= form.label :Medium, style: "display: block" %>
+    <%= form.collection_select :substrate_id, @substrates, :id, :label, {:selected => print.substrate_id}  %>
+  </div>
+
+  <div>
     <%= form.label :size, style: "display: block" %>
     <%= form.collection_select :size_id, @sizes, :id, :name, {:selected => print.size_id}  %>
   </div>
