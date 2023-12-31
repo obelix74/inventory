@@ -17,7 +17,7 @@
   <div class="p-40">
     <h1 class="mb-4 text-4xl font-black">Prints</h1>
     <div>
-      <%= @total_prints %> prints of total cost $<%= @grand_total %>
+      <%= @total_prints %> prints of total cost $<%= number_with_precision(@grand_total, :precision => 2) %>
     </div>
     <table class="min-w-full table-auto">
       <thead class="bg-gray-800 text-gray-300">
@@ -40,11 +40,11 @@
           <td><%= print.photo.name %></td>
           <td class="text-center"><%= print.substrate.name %>
             <% unless print.substrate.subtype.empty? %>
-            (<%=  print.substrate.subtype  %>)
-            <%  end %>
+              (<%= print.substrate.subtype %>)
+            <% end %>
           </td>
           <td class="text-center"><%= print.size.name %></td>
-          <td class="text-center"><%= print.cost %></td>
+          <td class="text-center"><%= number_with_precision(print.cost, :precision => 2) %></td>
           <td>
             <% if print.frame %>
               <%= print.frame.name %>
@@ -55,7 +55,7 @@
               <%= print.mat.outer %>
             <% end %>
           </td>
-          <td class="text-center"><%= print.totalCost %></td>
+          <td class="text-center"><%= number_with_precision(print.totalCost, :precision => 2) %></td>
           <td class="text-center"><%= print.count %></td>
           <td><%= link_to 'Show', print %></td>
           <td><%= link_to 'Edit', edit_print_path(print) %></td>
