@@ -8,7 +8,7 @@
     <%= form_tag prints_path, :method => 'get' do |f| %>
       <%= label_tag(:search, "Search string: ") %>
       <%= text_field_tag :search, params[:search] %>
-      <%= select_tag :medium, options_for_select(%w[Canvas Metal Paper Postcards], params[:medium]), :include_blank => true %>
+      <%= select_tag :medium, options_for_select(%w[Acrylic Canvas Metal Paper Postcards], params[:medium]), :include_blank => true %>
       <%= select_tag :size_id, options_from_collection_for_select(@sizes, :id, :name, params[:size_id]), :include_blank => true %>
       <%= submit_tag "Search" %>
     <% end %>
